@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CustomIdentity
+build_property.RootNamespace = CustomIdentity
+build_property.ProjectDir = D:\ITI\.NetMahmoudKhalied\mvc\LibraryFinial-main\LibraryFinial-main\LibraryManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ITI\.NetMahmoudKhalied\mvc\LibraryFinial-main\LibraryFinial-main\LibraryManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Author/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Author/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Author/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Book/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Book/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Book/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Genre/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Genre/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Genre/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Publisher/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Publisher/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Publisher/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/.NetMahmoudKhalied/mvc/LibraryFinial-main/LibraryFinial-main/LibraryManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mr82s2421b
